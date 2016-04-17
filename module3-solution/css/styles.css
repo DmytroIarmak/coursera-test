@@ -1,0 +1,55 @@
+p {
+	background-color: gray;
+	padding: 50px 10px 10px 10px;
+	margin: 10px;
+	border: 1px solid black;
+}
+
+.row{
+	width:100%;
+}
+
+.rel{
+	position: relative;
+}
+
+.header{
+	position: absolute;
+	top: 10px;
+	right:25px;
+	border:1px solid black;
+	font-family: Arial;
+	padding:5px 20px 5px 20px;
+	font-size: 24;
+}
+
+.navbar-brand h1 { /* Restaurant name */
+  color: gray;
+  font-size: 1.5em;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+
+.container{
+	width: 100%;
+}
+
+#nav-list a {
+  color: gray;
+   font-size: 1.5em;
+}
+
+#chicken{
+background-color: yellow;
+}
+
+#beef{
+background-color: brown;
+}
+
+#sushi{
+background-color: silver;
+}
